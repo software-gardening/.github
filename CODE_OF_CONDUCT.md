@@ -79,7 +79,7 @@ Violating these terms may lead to a permanent ban.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 2.0, available at [https://www.contributor-covenant.org/version/2/0/code_of_conduct.html][v2.0].
+This Code of Conduct is adapted from the [Cytomining `CODE_OF_CONDUCT.md`](https://github.com/cytomining/.github/blob/main/CODE_OF_CONDUCT.md) which is based on the [Contributor Covenant][homepage], version 2.0, available at [https://www.contributor-covenant.org/version/2/0/code_of_conduct.html][v2.0].
 
 Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcement ladder][mozilla coc].
 
