@@ -1,3 +1,5 @@
+<img alt="Software Gardening organization logo" src="https://raw.githubusercontent.com/software-gardening/brand/main/logo/logo-text.png?raw=true" style="max-width:100%;" width="500">
+
 # 🌻 Welcome to Software Gardening!
 
 [Software Gardening](https://github.com/software-gardening) is an ecosystem of applied guidance and tools for sustainable software development and maintenance.
@@ -13,13 +15,14 @@ See the links below to get started!
 ## Acknowledgements
 
 Immense thanks go to the following organizations for their generous support and inspiration of the work found within this organization.
+![]()
 
 <table>
   <tbody>
     <tr>
     <td align="center" valign="top" width="33.33%">
       <a href="https://bssw.io">
-      <img src="https://raw.githubusercontent.com/software-gardening/.github/main/profile/images/bssw-logo.svg?raw=true" width="80%;" alt="Better Scientific Software (BSSw)" style="background:#17227A;padding:10px;"/>
+      <img src="images/bssw-logo-w-background.png" width="80%;" alt="Better Scientific Software (BSSw)"/>
       <br>
       <strong>Better Scientific Software (BSSw)</strong>
       </a>
