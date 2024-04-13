@@ -1,3 +1,5 @@
+<img alt="Software Gardening organization logo" src="https://raw.githubusercontent.com/software-gardening/brand/main/logo/logo-text.png?raw=true" width="500">
+
 # 🌻 Welcome to Software Gardening!
 
 [Software Gardening](https://github.com/software-gardening) is an ecosystem of applied guidance and tools for sustainable software development and maintenance.
@@ -19,21 +21,21 @@ Immense thanks go to the following organizations for their generous support and 
     <tr>
     <td align="center" valign="top" width="33.33%">
       <a href="https://bssw.io">
-      <img src="https://raw.githubusercontent.com/software-gardening/.github/main/profile/images/bssw-logo.svg?raw=true" width="80%;" alt="Better Scientific Software (BSSw)" style="background:#17227A;padding:10px;"/>
+      <img src="images/bssw-logo-w-background.png" width="80%;" alt="Better Scientific Software (BSSw)"/>
       <br>
       <strong>Better Scientific Software (BSSw)</strong>
       </a>
     </td>
     <td align="center" valign="top" width="33.33%">
     <a href="https://shinstitute.org/">
-    <img src="https://raw.githubusercontent.com/software-gardening/.github/main/profile/images/sustainable-horizons-institute-logo.png?raw=true" width="90%;" alt="Sustainable Horizons Institute" style="padding:10px 0 10px 0;"/>
+    <img src="https://raw.githubusercontent.com/software-gardening/.github/main/profile/images/sustainable-horizons-institute-logo.png?raw=true" width="90%;" alt="Sustainable Horizons Institute"/>
     <br>
     <strong>Sustainable Horizons Institute</strong>
     </a>
     </td>
     <td align="center" valign="top" width="33.33%">
     <a href="https://medschool.cuanschutz.edu/dbmi">
-    <img src="https://raw.githubusercontent.com/software-gardening/.github/main/profile/images/cu-anschutz-short.svg?raw=true" width="80%;" alt="University of Colorado Anschutz Medical Campus" style="padding:20px 0 20px 0;"/>
+    <img src="https://raw.githubusercontent.com/software-gardening/.github/main/profile/images/cu-anschutz-short.svg?raw=true" width="80%;" alt="University of Colorado Anschutz Medical Campus"/>
     <br>
     <strong>University of Colorado<br>Anschutz Medical Campus</strong>
     </a>
