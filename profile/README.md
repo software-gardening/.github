@@ -1,4 +1,4 @@
-<img alt="Software Gardening organization logo" src="https://raw.githubusercontent.com/software-gardening/brand/main/logo/logo-text.png?raw=true" style="max-width:100%;" width="500">
+<img alt="Software Gardening organization logo" src="https://raw.githubusercontent.com/software-gardening/brand/main/logo/logo-text.png?raw=true" width="500">
 
 # 🌻 Welcome to Software Gardening!
 
@@ -28,14 +28,14 @@ Immense thanks go to the following organizations for their generous support and 
     </td>
     <td align="center" valign="top" width="33.33%">
     <a href="https://shinstitute.org/">
-    <img src="https://raw.githubusercontent.com/software-gardening/.github/main/profile/images/sustainable-horizons-institute-logo.png?raw=true" width="90%;" alt="Sustainable Horizons Institute" style="padding:10px 0 10px 0;"/>
+    <img src="https://raw.githubusercontent.com/software-gardening/.github/main/profile/images/sustainable-horizons-institute-logo.png?raw=true" width="90%;" alt="Sustainable Horizons Institute"/>
     <br>
     <strong>Sustainable Horizons Institute</strong>
     </a>
     </td>
     <td align="center" valign="top" width="33.33%">
     <a href="https://medschool.cuanschutz.edu/dbmi">
-    <img src="https://raw.githubusercontent.com/software-gardening/.github/main/profile/images/cu-anschutz-short.svg?raw=true" width="80%;" alt="University of Colorado Anschutz Medical Campus" style="padding:20px 0 20px 0;"/>
+    <img src="https://raw.githubusercontent.com/software-gardening/.github/main/profile/images/cu-anschutz-short.svg?raw=true" width="80%;" alt="University of Colorado Anschutz Medical Campus"/>
     <br>
     <strong>University of Colorado<br>Anschutz Medical Campus</strong>
     </a>
