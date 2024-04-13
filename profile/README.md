@@ -15,7 +15,6 @@ See the links below to get started!
 ## Acknowledgements
 
 Immense thanks go to the following organizations for their generous support and inspiration of the work found within this organization.
-![]()
 
 <table>
   <tbody>
