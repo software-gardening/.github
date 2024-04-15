@@ -21,7 +21,7 @@ Immense thanks go to the following organizations for their generous support and 
     <tr>
     <td align="center" valign="top" width="33.33%">
       <a href="https://bssw.io">
-      <img src="images/bssw-logo-w-background.png" width="80%;" alt="Better Scientific Software (BSSw)"/>
+      <img src="https://raw.githubusercontent.com/software-gardening/.github/main/profile/images/bssw-logo-w-background.png?raw=true" width="80%;" alt="Better Scientific Software (BSSw)"/>
       <br>
       <strong>Better Scientific Software (BSSw)</strong>
       </a>
