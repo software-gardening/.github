@@ -6,8 +6,8 @@
 
 See the links below to get started!
 
-- 📚 Learn more through the [Software Gardening Almanac](https://github.com/software-gardening/almanac)
-- 🪴 Get involved by checking out the [Contributing documentation](https://github.com/software-gardening/almanac/blob/main/CONTRIBUTING.md)
+- 📚 Learn more through the [Software Gardening Almanack](https://github.com/software-gardening/almanack)
+- 🪴 Get involved by checking out the [Contributing documentation](https://github.com/software-gardening/almanack/blob/main/CONTRIBUTING.md)
 - 🗣️ Come say hi through our [GitHub Discussions](https://github.com/orgs/software-gardening/discussions)
 - 🌟 Check out our amazing [community of contributors](https://github.com/orgs/software-gardening/people)
 - 🌈 Please abide our community [Code of Conduct](https://github.com/software-gardening/.github/blob/main/CODE_OF_CONDUCT.md)
